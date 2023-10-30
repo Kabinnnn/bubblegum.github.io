@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #b0e0e6;
+    background-color: #b0e0e6; /* Warna biru muda */
     color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
+    background-color: #333; /* Warna latar header */
     padding: 20px;
 }
 
